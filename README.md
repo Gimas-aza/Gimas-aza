@@ -31,6 +31,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cs,cpp,python,javascript" />
+    <br>
     <img src="https://skillicons.dev/icons?i=unity,vscode,vim,html,css,github,figma,git" />
 </div>
 
